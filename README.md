@@ -1,2 +1,2 @@
 Welcome, we're a software house based in Italy.
-Our biggest project is Gerp, a professional and complete ERP for web based enterprise resource planning software, dedicated to printing industry.
+Our biggest project is Gerp, a professional and complete web based ERP software, dedicated to printing industry and more.
